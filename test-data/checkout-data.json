@@ -3,8 +3,9 @@
     "name": "QA Tester",
     "email": "qa.engineer@example.com"
   },
-  "coffees": {
-    "primary": "Espresso",
-    "secondary": "Mocha"
-  }
+ "coffeesToOrder": [
+    "Espresso",
+    "Mocha",
+    "Cappuccino"
+  ]
 }
