@@ -1,0 +1,10 @@
+{
+  "validCustomer": {
+    "name": "QA Tester",
+    "email": "qa.engineer@example.com"
+  },
+  "coffees": {
+    "primary": "Espresso",
+    "secondary": "Mocha"
+  }
+}
